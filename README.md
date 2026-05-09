@@ -1,4 +1,4 @@
-# Jeong-uk Kwon [tɕʌŋ.uk̚ kwʌn]
+# Jeong-uk Kwon [tɕʌ̹ŋ.uk̚.kʷwʌ̹n]
 ### Junior Researcher · Department of Linguistics, Korea University
 
 My research centers on the properties and tendencies of natural language use —  
