@@ -5,8 +5,6 @@ My research centers on the properties and tendencies of natural language use —
 particularly how speakers achieve **communicative efficiency under cognitive constraints** —  
 and on translating these findings into **tractable computational models**.
 
----
-
 ## Research Interests
 
 ### Theoretical Linguistics
