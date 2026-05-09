@@ -47,19 +47,14 @@ I aim to construct a robust and strict translation mechanism between social dial
 | Status | Project |
 |--------|---------|
 | 🟡 In Progress | Drafting a comprehensive textbook chapter on **Morphological Operations** |
-| 🔵 Forthcoming | Abstract preparation for **SICOL 2026** *(Seoul International Conference on Linguistics)* |
-| 🔴 Under Investigation | The intersection of **Social Dialect Variation** and **Machine Translation** |
+| 🔵 Forthcoming | Abstract preparation for **PACLIC 2026** and **International Conference of HPSG 2027** |
+| 🔴 Under Investigation | The intersection of **Machine Translation of Sociodialects** |
 
 ---
 
-## Contact & Affiliation
+## Contact
 
 **Institution:** Department of Linguistics, Korea University  
-**Email:** [your.email@korea.ac.kr]  
-**Research Philosophy:** To build an independent research program that prioritizes theoretical depth and empirical rigor over standardized metrics of evaluation.
-
----
-
-> *"I do not study language as it should be. I study it as it insists on being."*
+**Email:** [eren3052@naver.com]  
 
 
