@@ -29,5 +29,16 @@ I am deeply invested in examining the properties or tendencies of language use, 
 * **Research Goal:** To build a "Research League" of my own, prioritizing essence over standardized evaluation.
 
 > *"Rules exist to be challenged; it is within those challenges that the true essence of language is revealed."*
+* **[Upcoming]** Preparing abstracts for **SICOL 2026** (Seoul International Conference on Linguistics).
+* **[Research]** Investigating the intersection of **Social Dialects** and **Machine Translation (MT)**.
+
+---
+
+### 📫 Connect with Me
+* **Affiliation:** Dept. of Linguistics, Korea University
+* **Email:** [Your Email Address here]
+* **Research Goal:** To build a "Research League" of my own, prioritizing essence over standardized evaluation.
+
+> *"Rules exist to be challenged; it is within those challenges that the true essence of language is revealed."*
 
 
