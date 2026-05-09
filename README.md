@@ -5,9 +5,9 @@ I am deeply invested in examining the properties or tendencies of language use, 
 
 ### 🔬 Research Interests
 * **Theoretical Linguistics:**
-			* Morphology: Following the theoretical frameworks of Joan Bybee and Martin Haspelmath, I focus on analyzing the complex interactions between frequency of linguistic units, their linguistic clarity, storage economy, and computational economy.
-			* Syntax: I enjoy investigating the distributional properties of linguistic units and the idiosyncratic nature of constructions, where its form cannot be predicted from the meanings of its sub-units or vice versa.
-			* Information Structure and Pragmatics: I am interested in examining the distributional properties of information units, such as focus and topic, across specific languages. Furthermore, I aim to investigate how the interaction between speaker and hearer shapes the form-meaning combinations of linguistic units within a 'dialogue game,' following the principles of Neo-Gricean Theory.
+		* Morphology: Following the theoretical frameworks of Joan Bybee and Martin Haspelmath, I focus on analyzing the complex interactions between frequency of linguistic units, their linguistic clarity, storage economy, and computational economy.
+		* Syntax: I enjoy investigating the distributional properties of linguistic units and the idiosyncratic nature of constructions, where its form cannot be predicted from the meanings of its sub-units or vice versa.
+		* Information Structure and Pragmatics: I am interested in examining the distributional properties of information units, such as focus and topic, across specific languages. Furthermore, I aim to investigate how the interaction between speaker and hearer shapes the form-meaning combinations of linguistic units within a 'dialogue game,' following the principles of Neo-Gricean Theory.
 * **Computational Approach:** Hybrid models combining constaint-based grammars (**HPSG, SBCG**) with connectionist neural networks (**LLMs**).
 * **Sociolinguistic Translation Theory:** I aim to construct a robust and strict translation mechanism between social dialects by utilizing Fluid Construction Grammar (FCG), which allows for the flexible manipulation of form-meaning pairings. My goal is to formalize the subtle linguistic variations of social dialects into a computational framework that ensures both structural integrity and sociolinguistic precision. 
 
