@@ -1,20 +1,15 @@
----
-![Jeong-uk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enjoy305282-lab&show_icons=true&theme=tokyonight)
-
--->
-
 #Jeong-uk Kwon, a junior researcher majoring in **Linguistics at Korea University**.  
-I am deeply invested in examining the properties or tendencies of language use and applying them to computational modeling.
+I am deeply invested in examining the properties or tendencies of language use, such as how speakers achieve commnunicative efficiency under cognitive constraints and applying them to tractable computational modeling.
 
 ---
 
 ### 🔬 Research Interests
-* **Theoretical Linguistics:** Morphology, Syntax, and, Information Structure.
-* **Computational Approach:** Hybrid models combining symbolic logic (**HPSG, SBCG**) with connectionist neural networks (**LLMs**).
-* **Neuro-symbolic Integration:** * Integrating Constraint-based Grammars (**HPSG, SBCG**) and **Fluid Construction Grammar (FCG)** into **Large Language Models (LLMs)**.
-* **Sociolinguistics in the Era of AI:**
-    * Analyzing the "essence" of **Social Dialects** and their impact on Machine Translation (MT) performance.
-    * Researching how non-standard linguistic variables can be formally modeled to improve AI's sociolinguistic competence.
+* **Theoretical Linguistics:**
+			* Morphology: Following the theoretical frameworks of Joan Bybee and Martin Haspelmath, I focus on analyzing the complex interactions between frequency of linguistic units, their linguistic clarity, storage economy, and computational economy.
+			* Syntax: I enjoy investigating the distributional properties of linguistic units and the idiosyncratic nature of constructions, where its form cannot be predicted from the meanings of its sub-units or vice versa.
+			* Information Structure and Pragmatics: I am interested in examining the distributional properties of information units, such as focus and topic, across specific languages. Furthermore, I aim to investigate how the interaction between speaker and hearer shapes the form-meaning combinations of linguistic units within a 'dialogue game,' following the principles of Neo-Gricean Theory.
+* **Computational Approach:** Hybrid models combining constaint-based grammars (**HPSG, SBCG**) with connectionist neural networks (**LLMs**).
+* **Sociolinguistic Translation Theory:** I aim to construct a robust and strict translation mechanism between social dialects by utilizing Fluid Construction Grammar (FCG), which allows for the flexible manipulation of form-meaning pairings. My goal is to formalize the subtle linguistic variations of social dialects into a computational framework that ensures both structural integrity and sociolinguistic precision. 
 
 ### 🛠️ Technical Toolkit
 * **Analysis:** ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) (Statistical modeling & 3D visualization), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
