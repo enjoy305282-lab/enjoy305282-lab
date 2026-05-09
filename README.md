@@ -18,8 +18,6 @@ I investigate the distributional properties of linguistic units and the idiosync
 **Information Structure & Pragmatics**  
 Drawing on Neo-Gricean Theory, I examine the cross-linguistic distribution of information-structural categories (focus, topic) and analyze how the cooperative dynamics of the speaker–hearer dyad shape form-meaning conventions within a dialogue-game framework.
 
----
-
 ### Computational Linguistics
 
 **Neuro-Symbolic Architectures**  
