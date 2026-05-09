@@ -52,6 +52,6 @@ I aim to construct a robust and strict translation mechanism between social dial
 ## Contact
 
 **Institution:** Department of Linguistics, Korea University  
-**Email:** [eren3052@naver.com]  
+**Email:** [eren3052@korea.ac.kr]  
 
 
