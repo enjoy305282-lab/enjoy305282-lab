@@ -46,9 +46,9 @@ I aim to construct a robust and strict translation mechanism between social dial
 
 | Status | Project |
 |--------|---------|
-| 🟡 In Progress | Drafting a comprehensive textbook chapter on **Morphological Operations** |
-| 🔵 Forthcoming | Abstract preparation for **PACLIC 2026** and **International Conference of HPSG 2027** |
-| 🔴 Under Investigation | The intersection of **Machine Translation of Sociodialects** |
+| In Progress | Drafting a comprehensive textbook chapter on **Morphological Operations** |
+| Forthcoming | Abstract preparation for **PACLIC 2026** and **International Conference of HPSG 2027** |
+| Under Investigation | The intersection of **Machine Translation of Sociodialects** |
 
 ---
 
