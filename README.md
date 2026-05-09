@@ -37,13 +37,14 @@ I aim to construct a robust and strict translation mechanism between social dial
 
 | Domain | Tools |
 |--------|-------|
-| Statistical Analysis | 
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) — modeling, corpus analysis, 3D visualization | Computational Modeling | 
+| Statistical Analysis | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) — modeling, corpus analysis, 3D visualization 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) — NLP pipelines, neural experiments | Academic Typesetting | 
+| Computational Modeling | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) — NLP pipelines, neural experiments |
 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) — papers, textbook drafting, linguistic notation | Formal Frameworks | Fluid Construction Grammar (FCG) · Neuro-symbolic AI architectures |
+| Academic Typesetting | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) — papers, textbook drafting, linguistic notation |
+
+|Formal Frameworks | Fluid Construction Grammar (FCG) · Neuro-symbolic AI architectures |
 
 ---
 
