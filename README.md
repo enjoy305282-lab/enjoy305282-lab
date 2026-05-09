@@ -27,7 +27,7 @@ Drawing on Neo-Gricean Theory, I examine the cross-linguistic distribution of in
 **Neuro-Symbolic Architectures**  
 I pursue hybrid models that integrate constraint-based grammars (**HPSG**, **SBCG**) with connectionist neural networks (**LLMs**), aiming to preserve formal rigor while leveraging the representational power of large-scale language models.
 
-**Sociolinguistic Machine Translation**
+**Sociolinguistic Machine Translation** \n
 I aim to construct a robust and strict translation mechanism between social dialects by utilizing Fluid Construction Grammar (FCG), which allows for the flexible manipulation of form-meaning pairings. My goal is to formalize the subtle linguistic variations of social dialects into a computational framework that ensures both structural integrity and sociolinguistic precision.   
 
 
