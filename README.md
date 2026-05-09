@@ -36,8 +36,8 @@ I aim to construct a robust and strict translation mechanism between social dial
 
 | Domain | Tools |
 |--------|-------|
-| Statistical Analysis | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) modeling, corpus analysis, 3D visualization |
-| Computational Modeling | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) NLP pipelines, neural experiments |
+| Statistical Analysis | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) modeling, corpus analysis, graph visualization |
+| Computational Modeling | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) NLP pipelines and experiments |
 | Academic Typesetting | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) papers, textbook drafting, linguistic notation |
 
 ---
